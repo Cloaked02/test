@@ -21,13 +21,13 @@ The inline (horizontal) logo:
 
 <p>
   <div class="logo-inline-black logo-inline-w250">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
 </p>
 
 {{< highlight html >}}
 <div class="logo-inline-black logo-inline-w250">
-  <h6>1st Group</h6>
+  <h6>52nd Reading</h6>
 </div> 
 {{< /highlight >}}
 
@@ -36,13 +36,13 @@ The inline (horizontal) logo:
 The stacked (horizontal) logo:
 <p>
   <div class="logo-stacked-black logo-stacked-w150">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
 </p>
 
 {{< highlight html >}}
 <div class="logo-stacked-black logo-stacked-w150">
-  <h6>1st Group</h6>
+  <h6>52nd Reading</h6>
 </div> 
 {{< /highlight >}}
 
@@ -54,27 +54,27 @@ Note: in-line with brand guidelines we've deviated from the Bootstrap colour str
 ### Standard Colours
 
 <p>
-  <div class="d-inline-block p-3"><div class="logo-inline-black logo-inline-w200"> <h6>1st Group</h6> </div> </div>
-  <div class="d-inline-block p-3"><div class="logo-inline-purple logo-inline-w200"> <h6>1st Group</h6> </div></div>
-  <div class="rounded bg-dark d-inline-block p-3"><div class="logo-inline-white logo-inline-w200"> <h6>1st Group</h6> </div> </div>
+  <div class="d-inline-block p-3"><div class="logo-inline-black logo-inline-w200"> <h6>52nd Reading</h6> </div> </div>
+  <div class="d-inline-block p-3"><div class="logo-inline-purple logo-inline-w200"> <h6>52nd Reading</h6> </div></div>
+  <div class="rounded bg-dark d-inline-block p-3"><div class="logo-inline-white logo-inline-w200"> <h6>52nd Reading</h6> </div> </div>
 </p>
 
 {{< highlight html >}}
-<div class="logo-inline-black logo-inline-w200"> <h6>1st Group</h6> </div>
-<div class="logo-inline-purple logo-inline-w200"> <h6>1st Group</h6> </div>
-<div class="logo-inline-white logo-inline-w200"> <h6>1st Group</h6> </div>
+<div class="logo-inline-black logo-inline-w200"> <h6>52nd Reading</h6> </div>
+<div class="logo-inline-purple logo-inline-w200"> <h6>52nd Reading</h6> </div>
+<div class="logo-inline-white logo-inline-w200"> <h6>52nd Reading</h6> </div>
 {{< /highlight >}}
 
 <p>
-  <div class="d-inline-block p-3"><div class="logo-stacked-black logo-stacked-w200"> <h6>1st Group</h6> </div> </div>
-  <div class="d-inline-block p-3"><div class="logo-stacked-purple logo-stacked-w200"> <h6>1st Group</h6> </div></div>
-  <div class="rounded bg-dark d-inline-block p-3"><div class="logo-stacked-white logo-stacked-w200"> <h6>1st Group</h6> </div> </div>
+  <div class="d-inline-block p-3"><div class="logo-stacked-black logo-stacked-w200"> <h6>52nd Reading</h6> </div> </div>
+  <div class="d-inline-block p-3"><div class="logo-stacked-purple logo-stacked-w200"> <h6>52nd Reading</h6> </div></div>
+  <div class="rounded bg-dark d-inline-block p-3"><div class="logo-stacked-white logo-stacked-w200"> <h6>52nd Reading</h6> </div> </div>
 </p>
 
 {{< highlight html >}}
-<div class="logo-stacked-black logo-stacked-w200"> <h6>1st Group</h6> </div>
-<div class="logo-stacked-purple logo-stacked-w200"> <h6>1st Group</h6> </div>
-<div class="logo-stacked-white logo-stacked-w200"> <h6>1st Group</h6> </div>
+<div class="logo-stacked-black logo-stacked-w200"> <h6>52nd Reading</h6> </div>
+<div class="logo-stacked-purple logo-stacked-w200"> <h6>52nd Reading</h6> </div>
+<div class="logo-stacked-white logo-stacked-w200"> <h6>52nd Reading</h6> </div>
 {{< /highlight >}}
 
 ### Regional Colours
@@ -109,43 +109,43 @@ Each of the logo types needs to be paired with a class to set it's width. We gen
 ### Inline Example
 <p>
   <div class="logo-inline-black logo-inline-w150">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   <br />
    <div class="logo-inline-black logo-inline-w200">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   <br />
    <div class="logo-inline-black logo-inline-w250">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   <br />
    <div class="logo-inline-black logo-inline-w300">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   <br />
    <div class="logo-inline-black logo-inline-w350">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   <br />
    <div class="logo-inline-black logo-inline-w400">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
 </p>
 
 {{< highlight html >}}
 <!-- 150px wide -->
-<div class="logo-inline-black logo-inline-w150"> <h6>1st Group</h6> </div> 
+<div class="logo-inline-black logo-inline-w150"> <h6>52nd Reading</h6> </div> 
 <!-- 200px wide -->
-<div class="logo-inline-black logo-inline-w200"> <h6>1st Group</h6> </div> 
+<div class="logo-inline-black logo-inline-w200"> <h6>52nd Reading</h6> </div> 
 <!-- 250px wide -->
-<div class="logo-inline-black logo-inline-w250"> <h6>1st Group</h6> </div> 
+<div class="logo-inline-black logo-inline-w250"> <h6>52nd Readingp</h6> </div> 
 <!-- 300px wide -->
-<div class="logo-inline-black logo-inline-w300"> <h6>1st Group</h6> </div> 
+<div class="logo-inline-black logo-inline-w300"> <h6>52nd Reading</h6> </div> 
 <!-- 350px wide -->
-<div class="logo-inline-black logo-inline-w350"> <h6>1st Group</h6> </div>
+<div class="logo-inline-black logo-inline-w350"> <h6>52nd Reading</h6> </div>
 <!-- 400px wide -->
-<div class="logo-inline-black logo-inline-w400"> <h6>1st Group</h6> </div> 
+<div class="logo-inline-black logo-inline-w400"> <h6>52nd Reading</h6> </div> 
 
 <!-- 450+ ommited, use: logo-inline-w450, logo-inline-w500, logo-inline-w550, logo-inline-w600 -->
 {{< /highlight >}}
@@ -153,38 +153,38 @@ Each of the logo types needs to be paired with a class to set it's width. We gen
 ### Stacked Example
 <p>
   <div class="logo-stacked-black logo-stacked-w150">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <div class="logo-stacked-black logo-stacked-w200">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <div class="logo-stacked-black logo-stacked-w250">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
 
   <br />
    <div class="logo-stacked-black logo-stacked-w300">
-    <h6>1st Group</h6>
+    <h6>52nd Reading</h6>
   </div>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <div class="logo-stacked-black logo-stacked-w350">
-    <h6>1st Group</h6>
+    <h6>52nd Readingp</h6>
   </div>
 </p>
 
 {{< highlight html >}}
 <!-- 150px wide -->
-<div class="logo-stacked-black logo-stacked-w150"> <h6>1st Group</h6> </div> 
+<div class="logo-stacked-black logo-stacked-w150"> <h6>52nd Reading</h6> </div> 
 <!-- 200px wide -->
-<div class="logo-stacked-black logo-stacked-w200"> <h6>1st Group</h6> </div> 
+<div class="logo-stacked-black logo-stacked-w200"> <h6>52nd Reading</h6> </div> 
 <!-- 250px wide -->
-<div class="logo-stacked-black logo-stacked-w250"> <h6>1st Group</h6> </div> 
+<div class="logo-stacked-black logo-stacked-w250"> <h6>52nd Reading</h6> </div> 
 <!-- 300px wide -->
-<div class="logo-stacked-black logo-stacked-w300"> <h6>1st Group</h6> </div> 
+<div class="logo-stacked-black logo-stacked-w300"> <h6>52nd Reading</h6> </div> 
 <!-- 350px wide -->
-<div class="logo-stacked-black logo-stacked-w350"> <h6>1st Group</h6> </div>
+<div class="logo-stacked-black logo-stacked-w350"> <h6>52nd Reading</h6> </div>
 
 <!-- 400+ ommited, use: logo-stacked-w400, logo-stacked-w450, logo-stacked-w500, logo-stacked-w550, logo-stacked-w600 -->
 {{< /highlight >}}
